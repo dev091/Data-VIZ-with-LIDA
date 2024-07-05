@@ -1,11 +1,15 @@
 ## Overview
 
+![Screenshot 2024-07-05 094218](https://github.com/dev091/Data-VIZ-with-LIDA/assets/74716369/2868d5f6-fd00-47da-a5fd-f77f6a2289f3)
+
 This Streamlit application leverages the LIDA (Language Interface for Data Analysis) library to provide comprehensive data visualization and analysis capabilities. It is designed to help users understand and interpret their data more effectively through automatic summarization, insightful questions, and corresponding visualizations.
 Features
 
 Data Summarization:
 Upload a CSV file to receive an automated summary of the data.
 The app provides an overview of key statistics, data preview, and visual summaries such as heatmaps for missing values and correlation matrices.
+
+![Screenshot 2024-07-05 094206](https://github.com/dev091/Data-VIZ-with-LIDA/assets/74716369/2ce90635-2014-4563-8848-4faac5bbdfa7)
 
 Top Questions and Answers:
 The app generates the top 5 most relevant questions based on the data summary.
@@ -15,6 +19,8 @@ Corresponding charts are created for each question to visually represent the dat
 Custom Query-Based Graph Generation:
 Users can input custom queries about their data to generate specific graphs.
 This feature allows for tailored analysis, enabling users to explore particular aspects of their dataset in detail.
+
+![Screenshot 2024-07-05 094223](https://github.com/dev091/Data-VIZ-with-LIDA/assets/74716369/7a1b6b42-25aa-45e4-b1d3-069e20327f28)
 
 How It Works
 
